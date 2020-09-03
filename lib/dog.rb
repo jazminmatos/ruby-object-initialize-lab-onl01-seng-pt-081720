@@ -12,7 +12,6 @@ class Dog
     @name
   end
   
-  
   def breed=(breed) #setter method 
     @breed=breed
   end
