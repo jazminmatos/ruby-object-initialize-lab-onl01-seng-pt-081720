@@ -3,7 +3,7 @@ class Person
     @name = name
   end
   
-  def name #setter method 
+  def name=(name) #setter method 
     
   end
   
