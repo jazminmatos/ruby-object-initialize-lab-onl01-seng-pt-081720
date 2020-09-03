@@ -4,10 +4,10 @@ class Person
   end
   
   def name=(name) #setter method 
-    
+    @name=name
   end
   
-  def #getter method
-    
+  def name #getter method
+    @names
   end
 end
