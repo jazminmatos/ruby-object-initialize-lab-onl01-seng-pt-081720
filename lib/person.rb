@@ -8,6 +8,6 @@ class Person
   end
   
   def name #getter method
-    @names
+    @name
   end
 end
