@@ -9,6 +9,15 @@ class Dog
   end
   
   def name #getter method
-    @names
+    @name
+  end
+  
+  
+  def breed=(breed) #setter method 
+    @breed=breed
+  end
+  
+  def breed #getter method
+    @breed
   end
 end
