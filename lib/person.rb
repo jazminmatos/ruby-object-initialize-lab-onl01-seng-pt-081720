@@ -3,11 +3,11 @@ class Person
     @name = name
   end
   
-  def name
+  def name #setter method 
     
   end
   
-  def
+  def #getter method
     
   end
 end
